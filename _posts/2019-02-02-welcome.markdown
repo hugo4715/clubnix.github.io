@@ -1,0 +1,29 @@
+---
+title: "Bienvenue !"
+layout: post
+date: 2019-02-01 02:00
+tag: jekyll
+image: "/assets/images/univ.jpeg"
+headerImage: true
+projects: true
+hidden: false
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+category: project
+author: kidon
+externalLink: false
+---
+
+Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix -- club informatique et Open Source de Esiee Paris -- s'est lancé avec queslques membres et anciens membres dans cette édition 2019 de cette grande réunion du logiciel libre et Open Source !
+
+On vous offre donc quelques retours des conférences auxquelles nous assisterons.
+N'hésitez pas à partager ou à rentrer en contact avec depuis les différents canaux disponibles.
+
+---
+
+Qu'est-ce qui sera sur ce site ?
+
+- des retours et résumés des conférences auxquelles les auteurs vont assister,
+- des avis qui expliqueront pourquoi nous avons choisi ces conférences,
+- un retour final quelques jour après la fin du FOSDEM.
+
+---
