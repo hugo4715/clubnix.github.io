@@ -1,43 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-05T00:37:19+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club*Nix au FOSDEM 2019</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Les irréductibles français</title><link href="http://localhost:4000/yunohost/" rel="alternate" type="text/html" title="Les irréductibles français" /><published>2019-02-01T17:00:00+01:00</published><updated>2019-02-01T17:00:00+01:00</updated><id>http://localhost:4000/yunohost</id><content type="html" xml:base="http://localhost:4000/yunohost/">&lt;p&gt;Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en prendre pleins les yeux !
-Mais avec tout ça, on peut toujours faire un petit détour en passant par des endoits plus connus et se rassurer de la santé d’un projet apprécié.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-02T12:40:22+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club*Nix au FOSDEM 2019</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Bienvenue !</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Bienvenue !" /><published>2019-02-01T02:00:00+01:00</published><updated>2019-02-01T02:00:00+01:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;p&gt;Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix – club
+informatique et Open Source de Esiee Paris – s’est lancé avec queslques
+membres et anciens membres dans cette édition 2019 de cette grande réunion du
+logiciel libre et Open Source !&lt;/p&gt;
 
-&lt;p&gt;C’est ce que j’ai fait en décidant d’aller voir la présentation de &lt;strong&gt;Yunohost&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;yunohost--késako-&quot;&gt;Yunohost : Késako ?&lt;/h2&gt;
-
-&lt;p&gt;Pour ceux qui n’avaient pas compris : &lt;em&gt;Yunohost&lt;/em&gt; == &lt;em&gt;Why you no host ?&lt;/em&gt; ou &lt;em&gt;Pourquoi tu n’héberges pas ?&lt;/em&gt; en français. Et c’est avec cette douce subtilité que ce projet veut rendre le self-hosting (l’hébergement de serveur par ses propres moyens) facile et accessible à tous.&lt;/p&gt;
-
-&lt;p&gt;Alors que je connaissais le projet et que c’est un domaine qui m’intéresse, je n’avais encore jamais franchi le pas de l’hébergement des services que j’utilisais. Maintenant avec la présentation de 30 minutes montre en mains, je n’ai plus beaucoup d’excuses pour ne pas franchir le pas !&lt;/p&gt;
-
-&lt;h2 id=&quot;proposition&quot;&gt;Proposition&lt;/h2&gt;
-
-&lt;p&gt;Hébergé soit-même, oui mais comment ?&lt;/p&gt;
-
-&lt;p&gt;La version longue, chronophage et sans Yunohost :&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Obtenir une machine qui fonctionnerait 24h/24 qui servirait de serveur. Pour ça, plusieurs possibilités : payement d’un serveur chez un hébergeur professionnel comme OVH par exemple, achat et configuration d’un micro ordinateur comme la Raspberry Pi ou la Orange Pi (entièrement Open Source elle) ou d’un vrai ordinateur dédié à la fonction de serveur.&lt;/li&gt;
-  &lt;li&gt;Sélectionner un système d’exploitation (Linux bien sûr) adéquat à un serveur (éviter une IHM avec Gnome par exemple…)&lt;/li&gt;
-  &lt;li&gt;Trouver/lancer, maintenir et utiliser des services qui vous seraient utiles. Sans consommer trop de ressources du serveur.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Autant vous dire que la troisième partie bien que la plus proche de la fin est aussi la plus longue et chronophage car c’est celle qu’il faudra continuer tant que vous voudrez garder votre serveur.
-Sachant que vous allez apprendre énormément en maintenant votre serveur et logiciels qui tourneront. Ce que j’entends par là, c’est que nombres de problèmes seront rencontrés…&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Avec Yunohost&lt;/strong&gt;&lt;/p&gt;</content><author><name>kidon</name></author><category term="project" /><category term="données privées" /><category term="hébergement" /><category term="décentralisé" /><summary type="html">Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en prendre pleins les yeux ! Mais avec tout ça, on peut toujours faire un petit détour en passant par des endoits plus connus et se rassurer de la santé d’un projet apprécié.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/univ.jpeg" /></entry><entry><title type="html">Bienvenue !</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Bienvenue !" /><published>2019-02-01T02:00:00+01:00</published><updated>2019-02-01T02:00:00+01:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;p&gt;Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix – club informatique et Open Source de Esiee Paris – s’est lancé avec queslques membres et anciens membres dans cette édition 2019 de cette grande réunion du logiciel libre et Open Source !&lt;/p&gt;
-
-&lt;p&gt;On vous offre donc quelques retours des conférences auxquelles nous assisterons.
-N’hésitez pas à partager ou à rentrer en contact avec depuis les différents canaux disponibles.&lt;/p&gt;
+&lt;p&gt;On vous offre donc quelques retours des conférences auxquelles nous
+assisterons. N’hésitez pas à partager ou à rentrer en contact avec depuis les
+différents canaux disponibles.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;Qu’est-ce qui sera sur ce site ?&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;des retours et résumés des conférences auxquelles les auteurs vont assister,&lt;/li&gt;
-  &lt;li&gt;des avis qui expliqueront pourquoi nous avons choisi ces conférences,&lt;/li&gt;
-  &lt;li&gt;un retour final quelques jour après la fin du FOSDEM.&lt;/li&gt;
+  &lt;li&gt;des retours et résumés des conférences auxquelles les auteurs vont assister&lt;/li&gt;
+  &lt;li&gt;des avis qui expliqueront pourquoi nous avons choisi ces conférences&lt;/li&gt;
+  &lt;li&gt;un retour final quelques jour après la fin du FOSDEM&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;</content><author><name>kidon</name></author><category term="project" /><category term="jekyll" /><summary type="html">Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix – club informatique et Open Source de Esiee Paris – s’est lancé avec queslques membres et anciens membres dans cette édition 2019 de cette grande réunion du logiciel libre et Open Source !</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/univ.jpeg" /></entry></feed>
