@@ -51,7 +51,7 @@ github: clubnix
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-# email: myemail@gmail.com
+email: club.nix@edu.esiee.fr
 
 authors:
     kidon:
@@ -63,7 +63,7 @@ authors:
         github : kidonsky
     minijackson:
         name: Rémi Nicole
-        bio: A Man who develops software with coffee
+        bio: Recent graduate who develops software
         external-image: false
         picture: assets/images/clubnix.png
         github: minijackson

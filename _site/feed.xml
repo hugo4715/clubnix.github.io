@@ -1,16 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-02T00:22:35+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club*Nix au FOSDEM 2019</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Bienvenue !</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Bienvenue !" /><published>2019-02-01T02:00:00+01:00</published><updated>2019-02-01T02:00:00+01:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;p&gt;Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix – club informatique et Open Source de Esiee Paris – s’est lancé avec queslques membres et anciens membres dans cette édition 2019 de cette grande réunion du logiciel libre et Open Source !&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-02T12:40:22+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club*Nix au FOSDEM 2019</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Bienvenue !</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Bienvenue !" /><published>2019-02-01T02:00:00+01:00</published><updated>2019-02-01T02:00:00+01:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;p&gt;Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix – club
+informatique et Open Source de Esiee Paris – s’est lancé avec queslques
+membres et anciens membres dans cette édition 2019 de cette grande réunion du
+logiciel libre et Open Source !&lt;/p&gt;
 
-&lt;p&gt;On vous offre donc quelques retours des conférences auxquelles nous assisterons.
-N’hésitez pas à partager ou à rentrer en contact avec depuis les différents canaux disponibles.&lt;/p&gt;
+&lt;p&gt;On vous offre donc quelques retours des conférences auxquelles nous
+assisterons. N’hésitez pas à partager ou à rentrer en contact avec depuis les
+différents canaux disponibles.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;Qu’est-ce qui sera sur ce site ?&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;des retours et résumés des conférences auxquelles les auteurs vont assister,&lt;/li&gt;
-  &lt;li&gt;des avis qui expliqueront pourquoi nous avons choisi ces conférences,&lt;/li&gt;
-  &lt;li&gt;un retour final quelques jour après la fin du FOSDEM.&lt;/li&gt;
+  &lt;li&gt;des retours et résumés des conférences auxquelles les auteurs vont assister&lt;/li&gt;
+  &lt;li&gt;des avis qui expliqueront pourquoi nous avons choisi ces conférences&lt;/li&gt;
+  &lt;li&gt;un retour final quelques jour après la fin du FOSDEM&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;</content><author><name>kidon</name></author><category term="project" /><category term="jekyll" /><summary type="html">Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix – club informatique et Open Source de Esiee Paris – s’est lancé avec queslques membres et anciens membres dans cette édition 2019 de cette grande réunion du logiciel libre et Open Source !</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/univ.jpeg" /></entry></feed>
