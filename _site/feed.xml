@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-05T13:58:19+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club*Nix au FOSDEM 2019</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Les irréductibles français</title><link href="http://localhost:4000/yunohost/" rel="alternate" type="text/html" title="Les irréductibles français" /><published>2019-02-01T17:00:00+01:00</published><updated>2019-02-01T17:00:00+01:00</updated><id>http://localhost:4000/yunohost</id><content type="html" xml:base="http://localhost:4000/yunohost/">&lt;p&gt;Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-06T13:26:11+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club*Nix au FOSDEM 2019</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Les irréductibles français</title><link href="http://localhost:4000/yunohost/" rel="alternate" type="text/html" title="Les irréductibles français" /><published>2019-02-01T17:00:00+01:00</published><updated>2019-02-01T17:00:00+01:00</updated><id>http://localhost:4000/yunohost</id><content type="html" xml:base="http://localhost:4000/yunohost/">&lt;p&gt;Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en 
 prendre pleins les yeux !
 Mais avec tout ça, on peut toujours faire un petit détour en passant par des 
 endoits plus connus et se rassurer de la santé d’un projet apprécié.&lt;/p&gt;
@@ -53,7 +53,21 @@ Installer la distribution Debian qui vient avec le logiciel Yunohost et c’est
 terminé.&lt;/p&gt;
 
 &lt;p&gt;A partir de maintenant, tout ce qu’il y a à faire c’est parcourir la 
-bibliothèque de logiciels adaptés pour l’outil, choisir, cliquer et c’est parti.&lt;/p&gt;</content><author><name>kidon</name></author><category term="project" /><category term="données privées" /><category term="hébergement" /><category term="décentralisé" /><summary type="html">Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en prendre pleins les yeux ! Mais avec tout ça, on peut toujours faire un petit détour en passant par des endoits plus connus et se rassurer de la santé d’un projet apprécié.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/univ.jpeg" /></entry><entry><title type="html">Bienvenue !</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Bienvenue !" /><published>2019-02-01T02:00:00+01:00</published><updated>2019-02-01T02:00:00+01:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;p&gt;Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix – club
+bibliothèque de logiciels adaptés pour l’outil, choisir, cliquer et c’est parti.&lt;/p&gt;
+
+&lt;p&gt;Je n’ai pas encore installé moi-même cette solution et ce blog n’a pas pour but 
+de vous apprendre à l’utiliser. Mais retenez juste que Yunohost a pour but &lt;strong&gt;de 
+rendre accessible à tous l’hébergement par ses propres moyens&lt;/strong&gt;. Et ça c’est une
+bonne idée !&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Pour conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La conf de trente minutes est à voir rien que pour sentir l’enthousiasme porté
+par &lt;em&gt;Aleks&lt;/em&gt;. Vous pouvez aussi retrouver les slides sur https://yunohost.org/fosdem2019.html .&lt;/p&gt;
+
+&lt;p&gt;C’est un de mes coups de coeur, notamment parce-que c’est un projet français qui pousse à sa manière le Web décentralisé.&lt;/p&gt;</content><author><name>kidon</name></author><category term="project" /><category term="données privées" /><category term="hébergement" /><category term="décentralisé" /><summary type="html">Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en prendre pleins les yeux ! Mais avec tout ça, on peut toujours faire un petit détour en passant par des endoits plus connus et se rassurer de la santé d’un projet apprécié.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/univ.jpeg" /></entry><entry><title type="html">Bienvenue !</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Bienvenue !" /><published>2019-02-01T02:00:00+01:00</published><updated>2019-02-01T02:00:00+01:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;p&gt;Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix – club
 informatique et Open Source de Esiee Paris – s’est lancé avec queslques
 membres et anciens membres dans cette édition 2019 de cette grande réunion du
 logiciel libre et Open Source !&lt;/p&gt;
