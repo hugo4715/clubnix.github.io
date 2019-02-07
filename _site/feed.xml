@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-07T12:50:26+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club*Nix au FOSDEM 2019</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Les irréductibles français</title><link href="http://localhost:4000/yunohost/" rel="alternate" type="text/html" title="Les irréductibles français" /><published>2019-02-01T17:00:00+01:00</published><updated>2019-02-01T17:00:00+01:00</updated><id>http://localhost:4000/yunohost</id><content type="html" xml:base="http://localhost:4000/yunohost/">&lt;p&gt;Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-07T13:24:58+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club*Nix au FOSDEM 2019</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Les irréductibles français</title><link href="http://localhost:4000/yunohost/" rel="alternate" type="text/html" title="Les irréductibles français" /><published>2019-02-01T17:00:00+01:00</published><updated>2019-02-01T17:00:00+01:00</updated><id>http://localhost:4000/yunohost</id><content type="html" xml:base="http://localhost:4000/yunohost/">&lt;p&gt;Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en 
 prendre pleins les yeux !
 Mais avec tout ça, on peut toujours faire un petit détour en passant par des 
 endroits plus connus et se rassurer de la santé d’un projet apprécié.&lt;/p&gt;
@@ -8,7 +8,7 @@ endroits plus connus et se rassurer de la santé d’un projet apprécié.&lt;/p
 &lt;h2 id=&quot;le-contexte&quot;&gt;Le contexte&lt;/h2&gt;
 
 &lt;p&gt;L’introduction de la conférence (environ le premier tiers des slides) était 
-destiné à ceux qui ne seraient pa tout de suite convaincu par l’utilité de 
+destiné à ceux qui ne seraient pas tout de suite convaincus par l’utilité de 
 ce projet.&lt;/p&gt;
 
 &lt;p&gt;Présentation du tableau : &lt;strong&gt;&lt;em&gt;les GAFAM et la NSA veulent notre âme.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -51,7 +51,8 @@ professionnel comme OVH par exemple, achat et configuration d’un micro
 ordinateur comme la Raspberry Pi ou la Orange Pi (entièrement Open Source elle) 
 ou d’un vrai ordinateur dédié à la fonction de serveur.&lt;/li&gt;
   &lt;li&gt;Sélectionner un système d’exploitation (Linux bien sûr) adéquat à un serveur 
-(éviter une IHM avec Gnome par exemple…)&lt;/li&gt;
+(éviter une interface graphique avec Gnome qui demande pas mal de ressources
+par exemple…)&lt;/li&gt;
   &lt;li&gt;Trouver/lancer, maintenir et utiliser des services qui vous seraient utiles. 
 Sans consommer trop de ressources du serveur.&lt;/li&gt;
 &lt;/ol&gt;
@@ -84,7 +85,7 @@ bonne idée !&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Pour conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;En conclusion&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;La conf de trente minutes est à voir rien que pour sentir l’enthousiasme porté
 par &lt;em&gt;Aleks&lt;/em&gt;. Vous pouvez aussi retrouver les slides sur
