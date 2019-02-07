@@ -1,10 +1,9 @@
 # main text of home
 name: Club*Nix au FOSDEM 2019
-bio: 2 membres du Club*Nix au Fosdem
+bio: des membres du Club*Nix au Fosdem
 
 # twitter summary info
-description: A blog about technology and stuff related
-
+description: A blog about Fosdem 2019
 # if it's an external image, update below for true
 # better with square images
 external-image: false
