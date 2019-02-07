@@ -1,9 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-06T13:26:11+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club*Nix au FOSDEM 2019</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Les irréductibles français</title><link href="http://localhost:4000/yunohost/" rel="alternate" type="text/html" title="Les irréductibles français" /><published>2019-02-01T17:00:00+01:00</published><updated>2019-02-01T17:00:00+01:00</updated><id>http://localhost:4000/yunohost</id><content type="html" xml:base="http://localhost:4000/yunohost/">&lt;p&gt;Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-07T12:50:26+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club*Nix au FOSDEM 2019</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Les irréductibles français</title><link href="http://localhost:4000/yunohost/" rel="alternate" type="text/html" title="Les irréductibles français" /><published>2019-02-01T17:00:00+01:00</published><updated>2019-02-01T17:00:00+01:00</updated><id>http://localhost:4000/yunohost</id><content type="html" xml:base="http://localhost:4000/yunohost/">&lt;p&gt;Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en 
 prendre pleins les yeux !
 Mais avec tout ça, on peut toujours faire un petit détour en passant par des 
-endoits plus connus et se rassurer de la santé d’un projet apprécié.&lt;/p&gt;
+endroits plus connus et se rassurer de la santé d’un projet apprécié.&lt;/p&gt;
 
 &lt;p&gt;C’est ce que j’ai fait en décidant d’aller voir la présentation de &lt;strong&gt;Yunohost&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;le-contexte&quot;&gt;Le contexte&lt;/h2&gt;
+
+&lt;p&gt;L’introduction de la conférence (environ le premier tiers des slides) était 
+destiné à ceux qui ne seraient pa tout de suite convaincu par l’utilité de 
+ce projet.&lt;/p&gt;
+
+&lt;p&gt;Présentation du tableau : &lt;strong&gt;&lt;em&gt;les GAFAM et la NSA veulent notre âme.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Qui les contredirait ? Mais l’important c’est la conclusion. Si Google tombait
+demain, comment construirions nous le nouvel Internet décentralisé ?&lt;/p&gt;
+
+&lt;p&gt;Et c’est ainsi que le sujet de Framasoft est arrivé. Framasoft, qui est 
+rappelons le, une association qui fourni de nombreux service Open Source à 
+héberger soit-même et qui ont pour but de remplacer des services 
+propriétaires existant. &lt;em&gt;Par exemple : Framadate pour remplacer Doodle, 
+Framatalk pour remplacer Skype, etc…&lt;/em&gt;
+Famasoft promeut donc l’hébergement personnel et appuye notamment
+&lt;a href=&quot;https://chatons.org&quot;&gt;https://chatons.org&lt;/a&gt; mais ne propose pas de solution miracle pour héberger
+soit-même.&lt;/p&gt;
+
+&lt;p&gt;C’est là on le conférencier vous demande : &lt;strong&gt;Yunohost&lt;/strong&gt; ?&lt;/p&gt;
 
 &lt;h2 id=&quot;yunohost--késako-&quot;&gt;Yunohost : Késako ?&lt;/h2&gt;
 
@@ -65,9 +87,11 @@ bonne idée !&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Pour conclusion&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;La conf de trente minutes est à voir rien que pour sentir l’enthousiasme porté
-par &lt;em&gt;Aleks&lt;/em&gt;. Vous pouvez aussi retrouver les slides sur https://yunohost.org/fosdem2019.html .&lt;/p&gt;
+par &lt;em&gt;Aleks&lt;/em&gt;. Vous pouvez aussi retrouver les slides sur
+&lt;a href=&quot;https://yunohost.org/fosdem2019.html&quot;&gt;https://yunohost.org/fosdem2019.html&lt;/a&gt; .&lt;/p&gt;
 
-&lt;p&gt;C’est un de mes coups de coeur, notamment parce-que c’est un projet français qui pousse à sa manière le Web décentralisé.&lt;/p&gt;</content><author><name>kidon</name></author><category term="project" /><category term="données privées" /><category term="hébergement" /><category term="décentralisé" /><summary type="html">Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en prendre pleins les yeux ! Mais avec tout ça, on peut toujours faire un petit détour en passant par des endoits plus connus et se rassurer de la santé d’un projet apprécié.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/univ.jpeg" /></entry><entry><title type="html">Bienvenue !</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Bienvenue !" /><published>2019-02-01T02:00:00+01:00</published><updated>2019-02-01T02:00:00+01:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;p&gt;Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix – club
+&lt;p&gt;C’est un de mes coups de coeur, notamment parce-que c’est un projet français 
+qui pousse à sa manière le Web décentralisé.&lt;/p&gt;</content><author><name>kidon</name></author><category term="project" /><category term="données privées" /><category term="hébergement" /><category term="décentralisé" /><summary type="html">Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en prendre pleins les yeux ! Mais avec tout ça, on peut toujours faire un petit détour en passant par des endroits plus connus et se rassurer de la santé d’un projet apprécié.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/univ.jpeg" /></entry><entry><title type="html">Bienvenue !</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Bienvenue !" /><published>2019-02-01T02:00:00+01:00</published><updated>2019-02-01T02:00:00+01:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;p&gt;Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix – club
 informatique et Open Source de Esiee Paris – s’est lancé avec queslques
 membres et anciens membres dans cette édition 2019 de cette grande réunion du
 logiciel libre et Open Source !&lt;/p&gt;
