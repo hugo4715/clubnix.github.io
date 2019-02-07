@@ -2,7 +2,7 @@
 title: "Bienvenue !"
 layout: post
 date: 2019-02-01 02:00
-tag: jekyll
+tag: Welcome
 image: "/assets/images/univ.jpeg"
 headerImage: true
 projects: true
