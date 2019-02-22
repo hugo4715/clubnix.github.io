@@ -1,4 +1,134 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-07T12:53:48+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club*Nix au FOSDEM 2019</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Bienvenue !</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Bienvenue !" /><published>2019-02-01T02:00:00+01:00</published><updated>2019-02-01T02:00:00+01:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;p&gt;Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix – club
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-22T19:42:35+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Club*Nix au FOSDEM 2019</title><subtitle>A blog about Fosdem 2019</subtitle><entry><title type="html">Turtle routing</title><link href="http://localhost:4000/retroshare/" rel="alternate" type="text/html" title="Turtle routing" /><published>2019-02-08T17:00:00+01:00</published><updated>2019-02-08T17:00:00+01:00</updated><id>http://localhost:4000/retroshare</id><content type="html" xml:base="http://localhost:4000/retroshare/">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Une introduction en parlant de l'Internet décentralisé, ce que c'est, l'utilité, les difficultés, etc...
+L'outil Retroshare en décrivant leur Turtle network : un réseau maillé d'utilisateurs. En gros c'est du &quot;Peer to peer to peer to peer to...&quot;
+
+ils apportent avec ça une première solution de communication décentralisé à travers les mailles (les utilisateurs qui servent en quelque sorte de routeurs). Les nœuds (les users) ne voient à ce moment que le destinataires et l'expéditeur
+solution de propagation stockage de données asynchrone, redondant et du coup décentralisé !
+deep search (faut que je re creuse la question voire que je regarde à nouveau la conf pour ça)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Révons un peu (enfin pour les libristes…), imaginons un monde sans les 
+&lt;em&gt;GAFAM&lt;/em&gt; …&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Les réalistes et les non-initiés répondront que les alternatives sont trop
+peu nombreuses pour remplacer tous les outils que ces 5 entreprises nous 
+&lt;em&gt;offrent gratuitement&lt;/em&gt;[1].
+Et notamment, leur quantité astronomique de stockage contenues dans leurs 
+innombrables serveurs.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Mais, si on pouvait se passer de tous ses serveurs et de cette perpétuelle 
+dépendance au stockage ?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Avons-nous rééllement besoin de garder le GIF que nous avons envoyé à une
+amie il y a 5 ans ?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;la-décentralisation&quot;&gt;La décentralisation&lt;/h2&gt;
+
+&lt;h2 id=&quot;leurs-différents-outils-et-fonctionnement&quot;&gt;Leurs différents outils et fonctionnement&lt;/h2&gt;</content><author><name>kidon</name></author><category term="project" /><category term="communication" /><category term="partage de données" /><category term="décentralisé" /><summary type="html">Une introduction en parlant de l'Internet décentralisé, ce que c'est, l'utilité, les difficultés, etc... L'outil Retroshare en décrivant leur Turtle network : un réseau maillé d'utilisateurs. En gros c'est du &quot;Peer to peer to peer to peer to...&quot;</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/univ.jpeg" /></entry><entry><title type="html">Les irréductibles français</title><link href="http://localhost:4000/yunohost/" rel="alternate" type="text/html" title="Les irréductibles français" /><published>2019-02-01T17:00:00+01:00</published><updated>2019-02-01T17:00:00+01:00</updated><id>http://localhost:4000/yunohost</id><content type="html" xml:base="http://localhost:4000/yunohost/">&lt;p&gt;Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en 
+prendre pleins les yeux !
+Mais avec tout ça, on peut toujours faire un petit détour en passant par des 
+endroits plus connus et se rassurer de la santé d’un projet apprécié.&lt;/p&gt;
+
+&lt;p&gt;C’est ce que j’ai fait en décidant d’aller voir la présentation de &lt;strong&gt;Yunohost&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;le-contexte&quot;&gt;Le contexte&lt;/h2&gt;
+
+&lt;p&gt;L’introduction de la conférence (environ le premier tiers des slides) était 
+destiné à ceux qui ne seraient pas tout de suite convaincus par l’utilité de 
+ce projet.&lt;/p&gt;
+
+&lt;p&gt;Présentation du tableau : &lt;strong&gt;&lt;em&gt;les GAFAM et la NSA veulent notre âme.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Qui les contredirait ? Mais l’important c’est la conclusion. Si Google tombait
+demain, comment construirions nous le nouvel Internet décentralisé ?&lt;/p&gt;
+
+&lt;p&gt;Et c’est ainsi que le sujet de Framasoft est arrivé. Framasoft, qui est 
+rappelons le, une association qui fourni de nombreux service Open Source à 
+héberger soit-même et qui ont pour but de remplacer des services 
+propriétaires existant. &lt;em&gt;Par exemple : Framadate pour remplacer Doodle, 
+Framatalk pour remplacer Skype, etc…&lt;/em&gt;
+Famasoft promeut donc l’hébergement personnel et appuye notamment
+&lt;a href=&quot;https://chatons.org&quot;&gt;https://chatons.org&lt;/a&gt; mais ne propose pas de solution miracle pour héberger
+soit-même.&lt;/p&gt;
+
+&lt;p&gt;C’est là on le conférencier vous demande : &lt;strong&gt;Yunohost&lt;/strong&gt; ?&lt;/p&gt;
+
+&lt;h2 id=&quot;yunohost--késako-&quot;&gt;Yunohost : Késako ?&lt;/h2&gt;
+
+&lt;p&gt;Pour ceux qui n’avaient pas compris : &lt;em&gt;Yunohost&lt;/em&gt; == &lt;em&gt;Why you no host ?&lt;/em&gt; ou 
+&lt;em&gt;Pourquoi tu n’héberges pas ?&lt;/em&gt; en français. Et c’est avec cette douce subtilité 
+que ce projet veut rendre le self-hosting (l’hébergement de serveur par ses 
+propres moyens) facile et accessible à tous.&lt;/p&gt;
+
+&lt;p&gt;Alors que je connaissais le projet et que c’est un domaine qui m’intéresse, je 
+n’avais encore jamais franchi le pas de l’hébergement des services que 
+j’utilisais. Maintenant avec la présentation de 30 minutes montre en mains, je 
+n’ai plus beaucoup d’excuses pour ne pas franchir le pas !&lt;/p&gt;
+
+&lt;h2 id=&quot;proposition&quot;&gt;Proposition&lt;/h2&gt;
+
+&lt;p&gt;Hébergé soit-même, oui mais comment ?&lt;/p&gt;
+
+&lt;p&gt;La version longue, chronophage et sans Yunohost :&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Obtenir une machine qui fonctionnerait 24h/24 qui servirait de serveur. Pour 
+ça, plusieurs possibilités : payement d’un serveur chez un hébergeur 
+professionnel comme OVH par exemple, achat et configuration d’un micro 
+ordinateur comme la Raspberry Pi ou la Orange Pi (entièrement Open Source elle) 
+ou d’un vrai ordinateur dédié à la fonction de serveur.&lt;/li&gt;
+  &lt;li&gt;Sélectionner un système d’exploitation (Linux bien sûr) adéquat à un serveur 
+(éviter une interface graphique avec Gnome qui demande pas mal de ressources
+par exemple…)&lt;/li&gt;
+  &lt;li&gt;Trouver/lancer, maintenir et utiliser des services qui vous seraient utiles. 
+Sans consommer trop de ressources du serveur.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Autant vous dire que la troisième partie bien que la plus proche de la fin est 
+aussi la plus longue et chronophage car c’est celle qu’il faudra continuer tant 
+que vous voudrez garder votre serveur.
+Sachant que vous allez apprendre énormément en maintenant votre serveur et 
+logiciels qui tourneront. Ce que j’entends par là, c’est que nombres de 
+problèmes seront rencontrés…&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Avec Yunohost&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yunohost propose un service du moins inhabituel mais des plus appréciés : un 
+outil qui permet de s’affranchir des deux dernières étapes citées ci-dessus.&lt;/p&gt;
+
+&lt;p&gt;En gros, vous avez choisi votre matériel. Et à partir de là, c’est facile. 
+Installer la distribution Debian qui vient avec le logiciel Yunohost et c’est 
+terminé.&lt;/p&gt;
+
+&lt;p&gt;A partir de maintenant, tout ce qu’il y a à faire c’est parcourir la 
+bibliothèque de logiciels adaptés pour l’outil, choisir, cliquer et c’est parti.&lt;/p&gt;
+
+&lt;p&gt;Je n’ai pas encore installé moi-même cette solution et ce blog n’a pas pour but 
+de vous apprendre à l’utiliser. Mais retenez juste que Yunohost a pour but &lt;strong&gt;de 
+rendre accessible à tous l’hébergement par ses propres moyens&lt;/strong&gt;. Et ça c’est une
+bonne idée !&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;en-conclusion&quot;&gt;En conclusion&lt;/h2&gt;
+
+&lt;p&gt;La conf de trente minutes est à voir rien que pour sentir l’enthousiasme porté
+par &lt;em&gt;Aleks&lt;/em&gt;. Vous pouvez aussi retrouver les slides sur
+&lt;a href=&quot;https://yunohost.org/fosdem2019.html&quot;&gt;https://yunohost.org/fosdem2019.html&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;C’est un de mes coups de coeur, notamment parce-que c’est un projet français 
+qui pousse à sa manière le Web décentralisé.&lt;/p&gt;</content><author><name>kidon</name></author><category term="project" /><category term="données privées" /><category term="hébergement" /><category term="décentralisé" /><summary type="html">Le Fosdem, c’est l’occasion d’apprendre beaucoup de nouvelles choses et d’en prendre pleins les yeux ! Mais avec tout ça, on peut toujours faire un petit détour en passant par des endroits plus connus et se rassurer de la santé d’un projet apprécié.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/univ.jpeg" /></entry><entry><title type="html">Bienvenue !</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Bienvenue !" /><published>2019-02-01T02:00:00+01:00</published><updated>2019-02-01T02:00:00+01:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;p&gt;Bievenue et merci de lire nos retours du FOSDEM 2019. Le Club*Nix – club
 informatique et Open Source de Esiee Paris – s’est lancé avec queslques
 membres et anciens membres dans cette édition 2019 de cette grande réunion du
 logiciel libre et Open Source !&lt;/p&gt;
